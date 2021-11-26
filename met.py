@@ -1,5 +1,5 @@
 def f (arr):
-    return max(arr)
+    return min(arr)
 a=[]
 n=int(input())
 for i in range(n):
